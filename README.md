@@ -41,11 +41,11 @@ This is a simple, interactive combat game built using Python and Pygame, offerin
 - Libraries: Pygame ( for graphics, events, rendering ), NumPy( for Grid ) 
 
 Core Concepts:
-<br> ❇️⁠ Event-driven programming
-<br> ❇️ Grid generation using NumPy
-<br> ❇️⁠ Collision handling (mouse clicks & grid mapping)
-<br> ❇️ Turn-based state machine logic
-<br> ❇️ AI logic with random attack generation
+-⁠ Event-driven programming
+- Grid generation using NumPy
+-⁠ Collision handling (mouse clicks & grid mapping)
+- Turn-based state machine logic
+- AI logic with random attack generation
 
 # How to use:
 
@@ -78,8 +78,9 @@ pip install pygame
 ![image alt](https://github.com/DeviprasadShetty9833/The_Conquerer/blob/270d17daf0a0b2434bdbc2600052a0c48a37b5c1/assets/Output7.png)
 
 # Feedback:
-<br> I’d love to hear from you!
-<br> If you encounter any [Bugs](https://github.com/DeviprasadShetty9833/The_Conquerer/blob/main/Issue_Template/Bug_report.md), [Issues](https://github.com/DeviprasadShetty9833/The_Conquerer/issues), or have [Suggestions](https://github.com/DeviprasadShetty9833/The_Conquerer/blob/main/Issue_Template/Features_report.md) for improvements.
+
+I’d love to hear from you!
+<br> If you encounter any [Issues](https://github.com/DeviprasadShetty9833/The_Conquerer/issues), or have [Suggestions](https://github.com/DeviprasadShetty9833/The_Conquerer/blob/main/Issue_Template/Features_report.md) for improvements.
 
 
 # Support:
