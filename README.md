@@ -14,33 +14,38 @@ This is a simple, interactive combat game built using Python and Pygame, offerin
 # Key Features:
 
 <br> ![1.](https://img.shields.io/badge/1.-Difficulty_Levels-347952?style=for-the-badge&labelColor=white)
-<br> Choose from Easy (6×6), Moderate (8×8), or Hard (10×10) game boards for varying complexity.
+
+- Choose from Easy (6×6), Moderate (8×8), or Hard (10×10) game boards for varying complexity.
 
 <br> ![2.](https://img.shields.io/badge/2.-Ship_Placement-347952?style=for-the-badge&labelColor=white)
-<br> Place 8 ships on your grid by clicking cells on the left board before starting the game.
+
+- Place 8 ships on your grid by clicking cells on the left board before starting the game.
 
 <br> ![3.](https://img.shields.io/badge/3.-AI_Opponent-347952?style=for-the-badge&labelColor=white)
-<br> AI randomly places its ships and responds with basic strategic attacks after your turn.
+- AI randomly places its ships and responds with basic strategic attacks after your turn.
 
 <br> ![4.](https://img.shields.io/badge/4.-Turn_Based_Gameplay-347952?style=for-the-badge&labelColor=white)
-<br> Players and AI take turns attacking each other's grids — green circles indicate hits, black for misses.
+
+- Players and AI take turns attacking each other's grids — green circles indicate hits, black for misses.
 
 <br> ![5.](https://img.shields.io/badge/5.-Real_Time_Feedback-347952?style=for-the-badge&labelColor=white)
-<br> A message panel and ship hit counter keeps players informed about the current state of the match.
+
+- A message panel and ship hit counter keeps players informed about the current state of the match.
 
 <br> ![6.](https://img.shields.io/badge/6.-Victory_Conditions-347952?style=for-the-badge&labelColor=white)
-<br> The first to sink all 8 enemy ships wins the game. Game over messages are shown at the end.
+
+- The first to sink all 8 enemy ships wins the game. Game over messages are shown at the end.
 
 # Concepts Used:
-<br> Programming Language: Python 3.X
-<br> Libraries: Pygame ( for graphics, events, rendering ), NumPy( for Grid ) 
+- Programming Language: Python 3.X
+- Libraries: Pygame ( for graphics, events, rendering ), NumPy( for Grid ) 
 
 Core Concepts:
-<br> ⊡⁠ Event-driven programming
-<br> ⊡⁠ Grid generation using NumPy
-<br> ⊡⁠ Collision handling (mouse clicks & grid mapping)
-<br> ⊡⁠ Turn-based state machine logic
-<br> ⊡⁠ AI logic with random attack generation
+<br> ❇️⁠ Event-driven programming
+<br> ❇️ Grid generation using NumPy
+<br> ❇️⁠ Collision handling (mouse clicks & grid mapping)
+<br> ❇️ Turn-based state machine logic
+<br> ❇️ AI logic with random attack generation
 
 # How to use:
 
